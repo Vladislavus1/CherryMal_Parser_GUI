@@ -1,0 +1,4 @@
+selenium==4.19.0
+customtkinter==5.2.2
+CTkTable==1.1
+CTkMenuBar==0.8
